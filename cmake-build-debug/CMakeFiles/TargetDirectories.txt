@@ -1,0 +1,3 @@
+/Users/michalroziel/Documents/htwprog/PointersInC/cmake-build-debug/CMakeFiles/PointersInC.dir
+/Users/michalroziel/Documents/htwprog/PointersInC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/michalroziel/Documents/htwprog/PointersInC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
